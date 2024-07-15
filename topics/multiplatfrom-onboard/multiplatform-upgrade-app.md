@@ -510,7 +510,7 @@ To set up the library, specify the SKIE plugin in `shared/build.gradle.kts` and 
 
 ```kotlin
 plugins {
-   id("co.touchlab.skie") version "%skieVersion%"
+   id("co.touchlab.skie") version "0.8.2"
 }
 ```
 
